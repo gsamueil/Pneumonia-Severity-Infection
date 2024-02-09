@@ -32,3 +32,7 @@ is evaluated using twelve real medical case cases. The experimental results show
 that the suggested fuzzy inference engine accurately identifies the patients with the
 recommended severity and allows decision-makers specialists to quantify the severity
 of viral pneumonia using scores.
+
+
+![Final_Model_](https://github.com/gsamueil/Pneumonia-Severity-Infection/assets/31563545/d4b75e03-cacd-4815-9141-c1803b0e4b6c)
+
