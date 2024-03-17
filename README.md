@@ -36,3 +36,4 @@ of viral pneumonia using scores.
 
 ![Final_Model_](https://github.com/gsamueil/Pneumonia-Severity-Infection/assets/31563545/d4b75e03-cacd-4815-9141-c1803b0e4b6c)
 
+![Gui](https://github.com/gsamueil/Pneumonia-Severity-Infection/assets/31563545/839039b9-4f80-4c0e-ab02-b6b29be8cbbb)
